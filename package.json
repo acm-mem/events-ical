@@ -1,0 +1,21 @@
+{
+  "name": "ical-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "expressjs",
+    "ical"
+  ],
+  "author": "Keaton Burleson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ical2json": "^2.0.0",
+    "request": "^2.88.0"
+  }
+}
